@@ -81,7 +81,7 @@ Here are some hands-on labs and security simulations I’ve built (see repos for
 
 ## 📫 Let’s Connect  
 - 📧 Email: **Babatunji95@hotmail.com**  
-- 💼 LinkedIn: [linkedin.com/in/BabatunjiOsifeso](https://linkedin.com/in/BabatunjiOsifeso)  
+- 💼 LinkedIn: https://www.linkedin.com/in/babatunji-osifeso-84a213132?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 - 🌐 GitHub: [github.com/Tunji95](https://github.com/Tunji95)  
 
 ---
